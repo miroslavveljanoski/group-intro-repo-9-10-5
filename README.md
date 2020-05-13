@@ -6,12 +6,12 @@ We give it a name to our group. It is **"Coding with Sky Blue"**.
 
 > I'm really glad to introduce my group:
 
-|   Name    |               GitHub profile                       |   About   |
+|   Name    |               GitHub profile                       |   About                |
 |   ---     |                    ---                             |   ---     |
-|   Harun    |   [GitHub Harun](https://github.com/harunaltunhr) |   About   |
-|   Yana    |    [GitHub Yana](https://github.com/adekimpianna)  |   About   |
-|   Boam    |    [GitHub Boam](https://github.com/Boam1994)      |   About   |
-|   Feruz    |   [GitHub Ferux](https://github.com/Feruzteame)   |   About   |
-|   Murielle    |  [GitHub Murielle](https://github.com/murvanessa)  |   About   |
+|   Harun    |   [GitHub Harun](https://github.com/harunaltunhr) |   [More about Harun](https://github.com/HackYourFutureBelgium/class-9-10/blob/master/student-bios/harunaltunhr.md)   |
+|   Yana    |    [GitHub Yana](https://github.com/adekimpianna)  |   [More about Yana](https://github.com/HackYourFutureBelgium/class-9-10/blob/master/student-bios/adekimpianna.md)   |
+|   Boam    |    [GitHub Boam](https://github.com/Boam1994)      |   [More about Boam](https://github.com/hackyourfuturebelgium/class-9-10/tree/master/student-bios/Boam1994.md)   |
+|   Feruz    |   [GitHub Ferux](https://github.com/Feruzteame)   |   [More about Feruz](https://github.com/hackyourfuturebelgium/class-9-10/tree/master/student-bios/FeruzTeame.md)   |
+|   Murielle    |  [GitHub Murielle](https://github.com/murvanessa)  |   [More about Murielle](https://github.com/hackyourfuturebelgium/class-9-10/tree/master/student-bios/murvanessa.md)   |
 
 Our teacher for this class was [Akbel](https://github.com/akbelcolak)
